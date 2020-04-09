@@ -71,7 +71,7 @@
                 </swipeGestureRecognizer>
                 <swipeGestureRecognizer direction="left" id="xqK-rr-1Nm">
                     <connections>
-                        <action selector="swipeLeft:" destination="BYZ-38-t0r" id="cGv-gP-1ZN"/>
+                        <action selector="swipeRight:" destination="BYZ-38-t0r" id="eUg-kD-po7"/>
                     </connections>
                 </swipeGestureRecognizer>
             </objects>
